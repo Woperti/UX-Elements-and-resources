@@ -1,7 +1,6 @@
 # UX-Elements-and-resources
 
 Mockups
-Hight Fidelity (Hi - Fi)
 
 Low Fidelity (Lo-Fi)
 ![mockups](./imag/wireframe.png)
@@ -10,6 +9,7 @@ Medium Fidelity: Definnir la arquitectura de la informacion.
 
 
 High Fidelity
+
 ![mockups](./imag/mockup1.png)
 ![mockups](./imag/mockup2.png)
 
