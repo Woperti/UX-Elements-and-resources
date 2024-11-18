@@ -57,4 +57,5 @@ Style guides: Son conjuntos de reglas para el contenido del diseno que ayuda a m
 
 Recursos:
 Figma atajos: https://shortcuts.design/tools/toolspage-figma/ 
-https://qr-code.io/
+Generador qr: https://qr-code.io/
+Iconos redes sociales: https://www.flaticon.es/iconos-gratis/red-social
