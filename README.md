@@ -33,7 +33,9 @@ UX Deriverables(Entregables)
 
 ![deriverables](./imag/deriverables.png)
 
-
+Promocionar la App dentro del plantel
+1. Pedir permiso a las autoridades para poder pegar los carteles en sitios que consideren estrategicos. El diseno es libre.
+   
 Crear un codigo qr que pueda escanearse en: https://qr-code.io/ 
 Imprimirlo y disenar un cartel con varias copias que se pegaran en sitios estrategicos del plantel.
 El cartel debera ser similar a: 
