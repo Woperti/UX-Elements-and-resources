@@ -64,3 +64,10 @@ Recursos:
 Figma atajos: https://shortcuts.design/tools/toolspage-figma/ 
 Generador qr: https://qr-code.io/
 Iconos redes sociales: https://www.flaticon.es/iconos-gratis/red-social
+
+Figma plugins:
+
+
+Webflow plugins:
+
+
