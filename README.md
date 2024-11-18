@@ -33,6 +33,8 @@ UX Deriverables(Entregables)
 
 ![deriverables](./imag/deriverables.png)
 
+Ejemplo de user flow con diagrama de flujo.
+![diagrama](./imag/lucid-diagrama.png)
 Promocionar la App dentro del plantel
 1. Pedir permiso a las autoridades para poder pegar los carteles en sitios que consideren estrategicos. El diseno es libre.
    
