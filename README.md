@@ -3,6 +3,7 @@
 Mockups
 
 Low Fidelity (Lo-Fi)
+
 ![mockups](./imag/wireframe.png)
 
 Medium Fidelity: Definnir la arquitectura de la informacion.
