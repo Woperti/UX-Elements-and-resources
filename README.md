@@ -35,6 +35,7 @@ UX Deriverables(Entregables)
 ![deriverables](./imag/deriverables.png)
 
 Ejemplo de user flow con diagrama de flujo.
+
 ![diagrama](./imag/lucid-diagrama.png)
 
 Promocionar la App dentro del plantel
