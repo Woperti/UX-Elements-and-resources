@@ -33,6 +33,22 @@ UX Deriverables(Entregables)
 
 ![deriverables](./imag/deriverables.png)
 
+
+Crear un codigo qr que pueda escanearse en: https://qr-code.io/ 
+Imprimirlo y disenar un cartel con varias copias que se pegaran en sitios estrategicos del plantel.
+El cartel debera ser similar a: 
+y redirigira al sitio web que se va a probar y/o app que se va a probar.
+Pega los enlaces de Figma, webflow, para crear el/los codigo(s) QR.
+
+Disena el cartel en Figma o en canva o ilustrator, photoshop, etc.
+Anade las redes sociales del proyecto que crearon.
+Se pueden obtener de aqui: https://www.flaticon.es/iconos-gratis/red-social
+En el repositorio hay adjuntos algunos.
+
+Ejemplo de cartel:
+
+![cartel](./imag/cartel.png)
+
 Definiciones:
 User personas: Personajes ficticios que representan a la audiencia objetivo., ayudan a centrar las necesidades del usuario y centrarlas como diseno.
 Journey Maps: ayudan a visualizar como los usuarios navegaran paso a paso, para lograr metas especificas.
@@ -41,4 +57,4 @@ Style guides: Son conjuntos de reglas para el contenido del diseno que ayuda a m
 
 Recursos:
 Figma atajos: https://shortcuts.design/tools/toolspage-figma/ 
-
+https://qr-code.io/
