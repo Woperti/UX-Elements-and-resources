@@ -36,6 +36,7 @@ UX Deriverables(Entregables)
 
 Ejemplo de user flow con diagrama de flujo.
 ![diagrama](./imag/lucid-diagrama.png)
+
 Promocionar la App dentro del plantel
 1. Pedir permiso a las autoridades para poder pegar los carteles en sitios que consideren estrategicos. El diseno es libre.
    
@@ -50,7 +51,7 @@ Anade las redes sociales del proyecto que crearon.
 Se pueden obtener de aqui: https://www.flaticon.es/iconos-gratis/red-social
 En el repositorio hay adjuntos algunos.
 
-Ejemplo de cartel:
+Ejemplo de cartel: (Incluir grupo, nombre del equipo, materia y nombre del profesor)
 
 ![cartel](./imag/cartel.png)
 
@@ -64,10 +65,20 @@ Recursos:
 Figma atajos: https://shortcuts.design/tools/toolspage-figma/ 
 Generador qr: https://qr-code.io/
 Iconos redes sociales: https://www.flaticon.es/iconos-gratis/red-social
+Tailwind paleta de colores: https://tailwindcss.com/docs/customizing-colors
+Paleta de colores: https://coolors.co/
 
 Figma plugins:
 
 
 Webflow plugins:
+
+Extensiones en chrome:
+https://chromewebstore.google.com/detail/color-picker-eyedropper-t/phillbeieoddghchonmfebjhclflpoaj?hl=es 
+https://chromewebstore.google.com/detail/pixelay-for-figma/gnbafbeabkbkecmbedfgebgboicpnkpp?hl=es
+https://chromewebstore.google.com/detail/web-to-figma/mafpepbepbabkenbfpcdjmmjmeeemoal?hl=es
+https://chromewebstore.google.com/detail/figma/fkmaohpngenfoccdgceedjkfhkdcohmg?hl=es
+
+Inspiration
 
 
