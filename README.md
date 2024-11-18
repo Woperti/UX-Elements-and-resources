@@ -73,6 +73,7 @@ Generador qr: https://qr-code.io/
 Iconos redes sociales: https://www.flaticon.es/iconos-gratis/red-social
 Tailwind paleta de colores: https://tailwindcss.com/docs/customizing-colors
 Paleta de colores: https://coolors.co/
+mov a gif: https://www.adobe.com/express/feature/video/convert/mov-to-gif
 
 Figma plugins:
 
