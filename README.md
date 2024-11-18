@@ -1,5 +1,10 @@
 # UX-Elements-and-resources
 
+Diseno
+1. Escojan el nombre de la aplicacion
+2. Escriban una breve descripcion que hace su aplicacion para resolver el problema que plantearon.
+3. Dibujar los mockups
+   
 Mockups
 
 Low Fidelity (Lo-Fi)
@@ -71,6 +76,12 @@ Paleta de colores: https://coolors.co/
 
 Figma plugins:
 
+CSS, HTML:
+Animaciones: https://animista.net/play/basic/scale-up
+Button generator: https://www.bestcssbuttongenerator.com/#/5
+Generador de ondas(waves) para diseno: https://getwaves.io/ 
+Gradientes css: https://cssgradient.io/
+Generador de layouts: 
 
 Webflow plugins:
 
@@ -80,6 +91,6 @@ https://chromewebstore.google.com/detail/pixelay-for-figma/gnbafbeabkbkecmbedfge
 https://chromewebstore.google.com/detail/web-to-figma/mafpepbepbabkenbfpcdjmmjmeeemoal?hl=es
 https://chromewebstore.google.com/detail/figma/fkmaohpngenfoccdgceedjkfhkdcohmg?hl=es
 
-Inspiration
+Inspiration: 
 
 
