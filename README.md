@@ -15,9 +15,9 @@ Medium Fidelity: Definir la arquitectura de la informacion.
 
 Ejemplo de Mockup en figma. Grupo de 5 semestre
 
-![mockuo-5](./imag/figma1.png)
+![mockuo-5](./imag/figma1.jpeg)
 
-![mockuo-5](./imag/figma2.png)
+![mockuo-5](./imag/figma2.jpeg)
 
 
 High Fidelity
