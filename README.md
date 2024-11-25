@@ -73,6 +73,11 @@ Journey Maps: ayudan a visualizar como los usuarios navegaran paso a paso, para 
 User flows: Ayudan a encontrar la secuencia especifica de las actions de los usuarios que tomaran para completar una tarea.
 Style guides: Son conjuntos de reglas para el contenido del diseno que ayuda a mantener un estilo consistente. Define cosas como: Tipografia, paletas de colores, y estilos de los botones.
 
+Visitar: 
+https://miro.com/templates/
+para templates ya hechos, para los user flows,
+journey maps y user personas.
+
 Recursos:
 Figma atajos: https://shortcuts.design/tools/toolspage-figma/ 
 Generador qr: https://qr-code.io/
