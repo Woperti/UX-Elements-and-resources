@@ -78,6 +78,8 @@ https://miro.com/templates/
 para templates ya hechos, para los user flows,
 journey maps y user personas.
 
+o en español: https://www.canva.com/design/DAGXgINN4q8/olK9XOTa1NJ943vGuYCODA/edit?utm_content=DAGXgINN4q8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+buscar en canva.
 Recursos:
 Figma atajos: https://shortcuts.design/tools/toolspage-figma/ 
 Generador qr: https://qr-code.io/
